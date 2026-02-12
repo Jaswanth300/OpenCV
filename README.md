@@ -1,32 +1,36 @@
-# OpenCV Learning Journey 🚀
+# 👁 OpenCV - Computer Vision Practice
 
-This repository contains my structured learning journey of Computer Vision using OpenCV.
-
----
-
-## 📅 Day 01 – Introduction & Image Reading
-- What is Computer Vision?
-- Installing OpenCV
-- Reading and displaying images using Python
-- Understanding cv2 basics
-
-Folder: `Day01/`
+This repository contains my hands-on practice and experiments with OpenCV as part of my Computer Vision learning journey.
 
 ---
 
-## 🎯 Goal
-To master Computer Vision step by step and build real-world AI applications.
+## 📚 Topics Covered
+
+- Day 01 – Reading and Displaying Images
+- (More coming soon...)
 
 ---
 
-## 🔥 Tech Stack
+## 🛠 Tech Used
+
 - Python 3
 - OpenCV
 - NumPy
-- Git & GitHub
-- Termux (Android)
-- Windows Laptop
 
 ---
 
-👨‍💻 Maintained by: Jaswanth
+## 📂 Structure
+
+OpenCV/
+│
+├── Day01/
+│   ├── read_image.py
+│   └── sample.jpg
+│
+└── requirements.txt
+
+---
+
+## 🚀 How to Run
+
+1. Install dependencies:
